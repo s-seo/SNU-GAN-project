@@ -4,9 +4,7 @@ Generating image data for research/learning applying the Generative Adversarial 
 
 ## Authors
 
-![image-20210307032254774](C:\Users\baoro\AppData\Roaming\Typora\typora-user-images\image-20210307032254774.png)
-
-![](https://github.com/s-seo/SNU-GAN-project/tree/master/etc/authors.png)
+![authors](https://user-images.githubusercontent.com/48575810/110217227-4d5e1c80-7ef6-11eb-907f-b611f55742c9.PNG)
 
 ## File Summary
 
@@ -48,3 +46,7 @@ python ISIC_detail_down.py
 > * CNN : CNN modeling 
 > * DCGAN : DCGAN modeling
 > * GAN : GAN modeling
+
+#### 3. etc
+
+> * sandbox 일체
