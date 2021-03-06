@@ -6,6 +6,8 @@ Generating image data for research/learning applying the Generative Adversarial 
 
 ![image-20210307032254774](C:\Users\baoro\AppData\Roaming\Typora\typora-user-images\image-20210307032254774.png)
 
+![](https://github.com/s-seo/SNU-GAN-project/tree/master/etc/authors.png)
+
 ## File Summary
 
 #### 1. data
