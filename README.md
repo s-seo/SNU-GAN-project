@@ -1,58 +1,48 @@
 # GAN Project
 
-이팀
+Generating image data for research/learning applying the Generative Adversarial Network
 
-## Getting Started
+## Authors
 
+![image-20210307032254774](C:\Users\baoro\AppData\Roaming\Typora\typora-user-images\image-20210307032254774.png)
 
-### Prerequisites
+## File Summary
 
-What things you need to install the software and how to install them
+#### 1. data
 
-1. Python version
+> * A requirements file (txt) and .py for downloading ISIC image files.
+> * ISICArchive_Detail.csv : data description
+
+#####  Prerequisites
+
 ```
 Python >= 3.7.3
 ```
 
+##### Data installing
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-1.Run 
 ```
-git clone https://github.com/whywhyy/ISIC_down
+git clone https://github.com/s-seo/SNU-GAN-project
 ```
 
-2.Run
 ```
-cd ISIC_down
-```
-
-3.Run
-```
-pip install -r requirements.txt
+cd SNU-GAN-project
 ```
 
+```
+pip install -r ISIC_file_requirements.txt
+```
 
-4.Run
 ```
 python ISIC_image_down.py
 ```
 
-
-5.Run
 ```
 python ISIC_detail_down.py
 ```
 
+#### 2. engine
 
-## Authors
-
-* **whywhyy**  
-* **whywhyy**  
-* **whywhyy**  
-* **whywhyy**  
-* **whywhyy**  
+> * CNN : CNN modeling 
+> * DCGAN : DCGAN modeling
+> * GAN : GAN modeling
