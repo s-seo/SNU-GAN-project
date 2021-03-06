@@ -1,0 +1,32 @@
+※ 알아서 각자 추가하고 하면 될듯 합니다. 공부 목록느낌??
+
+
+[논문] GAN 2014.Jun : https://arxiv.org/abs/1406.2661
+[GAN][글][리뷰]초짜 대학원생 입장에서 이해하는 GAN (01) : http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html
+[GAN][글][리뷰]초짜 대학원생 입장에서 이해하는 GAN (02) : http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-2.html
+[GAN][동영상][리뷰] [PR12-Video] 1. Generative Adversarial Nets : http://jaejunyoo.blogspot.com/2017/04/pr12-1-video-slides-gan.html
+[GAN][글][리뷰] 카카오 리포트 GAN part 1 :  http://jaejunyoo.blogspot.com/2019/05/part-i.html
+
+[DCGAN][글][리뷰] 카카오 리포트 GAN part 2 :  http://jaejunyoo.blogspot.com/2019/05/partii.html
+[코드] Supervised Generative Dog Network :  https://www.kaggle.com/cdeotte/supervised-generative-dog-net#Walking-in-the-Latent-Space
+[코드 Animation - GAN Latent Walk : https://www.kaggle.com/jesucristo/animation-gan-latent-walk
+
+
+NIPS 2016 Tutorial: Generative Adversarial Networks - https://arxiv.org/abs/1701.00160
+
+[GANS] https://hollobit.github.io/All-About-the-GAN/
+
+
+[GANS] https://towardsdatascience.com/must-read-papers-on-gans-b665bbae3317
+ > Must-Read Papers on GANs
+    1 — DCGANs : https://arxiv.org/abs/1511.06434?source=post_page---------------------------
+    2 — Improved Techniques for Training GANs : https://arxiv.org/abs/1606.03498?source=post_page---------------------------
+    3— Conditional GANs : https://arxiv.org/abs/1411.1784?source=post_page---------------------------
+    4 — Progressively Growing GANs : https://arxiv.org/abs/1710.10196?source=post_page---------------------------
+    5 — BigGAN : https://arxiv.org/abs/1809.11096?source=post_page---------------------------
+    6 — StyleGAN : https://arxiv.org/abs/1812.04948?source=post_page---------------------------
+    7 — CycleGAN : https://arxiv.org/abs/1703.10593?source=post_page---------------------------
+    8 — Pix2Pix : https://arxiv.org/abs/1611.07004?source=post_page---------------------------
+    9 — StackGAN : https://arxiv.org/abs/1612.03242?source=post_page---------------------------
+    10 — Generative Adversarial Networks : https://arxiv.org/abs/1406.2661?source=post_page---------------------------
+    

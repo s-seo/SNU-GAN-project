@@ -1,0 +1,37 @@
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+kwangsookim@22e117f78b90:/home2/kwangsookim/kskim_test/BigGAN_docker_test$ python3 --version
+Python 3.5.2
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+python3 main.py --batch_size 16  --dataset off --adv_loss hinge --version biggan_imagenet --log_path log_path --sample_path sample_path --attn_path attn_path --gpus 1  --image_path ../skin_sample/skin_sample/data_all --sample_step 500  --model_save_step 33  --use_tensorboard True
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+kwangsookim@22e117f78b90:/home2/kwangsookim/kskim_test/BigGAN_docker_test$ ls -al ../skin_sample/skin_sample/data_all/
+total 1508
+drwxrwxr-x 3 kwangsookim kwangsookim    4096 Sep  2 05:03 .
+drwxrwxr-x 4 kwangsookim kwangsookim    4096 Sep  2 05:03 ..
+drwxrwxr-x 2 kwangsookim kwangsookim 1531904 Sep  2 05:06 skin_all
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+Elapsed [12 days, 0:31:38.347532], G_step [999930/1000000], D_step[999930/1000000], d_out_real: 0.0334, d_out_fake: 0.0000, g_loss_fake: 1.0006
+Elapsed [12 days, 0:31:48.992363], G_step [999940/1000000], D_step[999940/1000000], d_out_real: 0.1429, d_out_fake: 0.1155, g_loss_fake: 1.2750
+Elapsed [12 days, 0:31:58.876376], G_step [999950/1000000], D_step[999950/1000000], d_out_real: 0.0000, d_out_fake: 0.0619, g_loss_fake: 1.1090
+Elapsed [12 days, 0:32:11.653291], G_step [999960/1000000], D_step[999960/1000000], d_out_real: 0.0000, d_out_fake: 0.0000, g_loss_fake: 1.2607
+Elapsed [12 days, 0:32:22.502024], G_step [999970/1000000], D_step[999970/1000000], d_out_real: 0.0000, d_out_fake: 0.0000, g_loss_fake: 1.2014
+Elapsed [12 days, 0:32:32.997240], G_step [999980/1000000], D_step[999980/1000000], d_out_real: 0.1388, d_out_fake: 0.0001, g_loss_fake: 0.8958
+Elapsed [12 days, 0:32:42.113653], G_step [999990/1000000], D_step[999990/1000000], d_out_real: 0.0000, d_out_fake: 0.0000, g_loss_fake: 1.1298
+Elapsed [12 days, 0:32:55.255056], G_step [1000000/1000000], D_step[1000000/1000000], d_out_real: 0.0000, d_out_fake: 0.2100, g_loss_fake: 1.313
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
